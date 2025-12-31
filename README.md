@@ -1,30 +1,13 @@
 # 📚 Daily English Words Repository
 
+![Daily Update](https://img.shields.io/badge/Updated-Daily-brightgreen)
+![Words Count](https://img.shields.io/badge/Words-1%20and%20growing-blue)
+![Difficulty](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange)
+![Format](https://img.shields.io/badge/Format-Markdown-lightgrey)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Examples](https://img.shields.io/badge/Examples-10%20per%20word-purple)
+
 A daily-updated collection of English vocabulary words with detailed explanations, contextual examples, and learning resources.
-
-## 🎯 Project Overview
-
-This repository serves as a structured, growing database of English vocabulary words. Each word includes:
-
-- **Clear definitions** with pronunciation guides
-- **10 practical examples** showing word usage in different contexts
-- **Learning aids** like memory tips and synonyms/antonyms
-- **Word forms** and common phrases
-
-## 📁 Repository Structure
-
-```
-daily-english-words/
-├── README.md                 # This main documentation
-├── words/                    # Daily word files
-│   ├── YYYY-MM-DD_wordname.md
-│   └── ...
-├── archive/                  # Organized word collections
-│   ├── words_by_month.md     # Monthly archive
-│   └── words_by_category.md  # Categorized archive
-└── templates/                # Word templates
-    └── word_template.md      # Standard word format
-```
 
 ## ✨ Features
 
@@ -39,13 +22,7 @@ daily-english-words/
 - Word forms and usage notes
 - Contextual examples across different situations
 
-### Organization
-- Chronological archive
-- Category-based grouping
-- Searchable content
-- Easy navigation
-
-## 📝 Word Format
+## 📝 Today's Word Format
 
 Each word follows this standardized format:
 
@@ -98,33 +75,6 @@ Each word follows this standardized format:
 - **Monthly Reviews**: Archived by month
 - **Category Growth**: Words organized by theme
 - **Learning Progression**: From basic to advanced vocabulary
-
-## 🤝 Contributing
-
-We welcome contributions! You can help by:
-
-1. **Adding new words** (follow the template)
-2. **Improving existing examples**
-3. **Suggesting better memory tips**
-4. **Adding pronunciation guides**
-5. **Creating themed word sets**
-
-### Contribution Guidelines:
-- Use the provided template
-- Include 10 diverse examples
-- Add helpful learning aids
-- Check for accuracy
-
-## 📄 License
-
-This project is open source and available for educational purposes.
-
-## 🔗 Connect
-
-- **Purpose**: Daily English vocabulary improvement
-- **Frequency**: Updated daily
-- **Format**: Markdown files for easy reading
-- **Goal**: Build comprehensive vocabulary resource
 
 ---
 
