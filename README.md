@@ -1,4 +1,4 @@
-# 📚 Daily English Words Repository
+#  Daily English Words Repository
 
 ![Daily Update](https://img.shields.io/badge/Updated-Daily-brightgreen)
 ![Words Count](https://img.shields.io/badge/Words-1%20and%20growing-blue)
@@ -9,7 +9,7 @@
 
 A daily-updated collection of English vocabulary words with detailed explanations, contextual examples, and learning resources.
 
-## ✨ Features
+##  Features
 
 ### Daily Updates
 - New word added every day
@@ -22,7 +22,7 @@ A daily-updated collection of English vocabulary words with detailed explanation
 - Word forms and usage notes
 - Contextual examples across different situations
 
-## 📝 Today's Word Format
+##  Today's Word Format
 
 Each word follows this standardized format:
 
@@ -55,7 +55,7 @@ Each word follows this standardized format:
 *Date added: YYYY-MM-DD*
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### For Learners:
 1. Visit the repository daily for new words
@@ -69,7 +69,7 @@ Each word follows this standardized format:
 3. Submit a pull request
 4. Help improve existing content
 
-## 📈 Progress Tracking
+##  Progress Tracking
 
 - **Daily Updates**: One word per day
 - **Monthly Reviews**: Archived by month
